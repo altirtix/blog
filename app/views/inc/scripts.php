@@ -1,0 +1,15 @@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script> 
+    <script src="<?php echo URLROOT; ?>/js/animation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
+    <script src="<?php echo URLROOT; ?>/js/slider.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.5.0/jquery.marquee.min.js"></script>
+    <script src="<?php echo URLROOT; ?>/js/marquee.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js"></script> 
+    <script src="<?php echo URLROOT; ?>/js/scrollbar.js"></script>
+    <script src="<?php echo URLROOT; ?>/js/parallax.js"></script> 
+    <script src="<?php echo URLROOT; ?>/js/navbuttons.js"></script>
+    <script src="<?php echo URLROOT; ?>/js/search.js"></script>
+    <script src="<?php echo URLROOT; ?>/js/anchor.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js"></script> -->
