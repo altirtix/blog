@@ -1,5 +1,5 @@
 # blog
-Simple CRUD Blog. \
+Simple CRUD Blog with Authorization. \
 PHP MVC, PostgreSQL, Bootstrap. \
 Educational Project. 
 
